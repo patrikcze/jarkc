@@ -18,16 +18,16 @@ jarkc stands for (just-another-raspberry-kubernetes-cluster)
 
 | Device | Description                     | Price ($)   | Link                              |  
 |--------|----------------------------------|-------------|-----------------------------------| 
-| RPis   | 3x Raspberry Pi 4                | $80         | [Amazon](https://www |
+| RPis   | 3x Raspberry Pi 4                | $80         | [Amazon](https://www 
 |        |                                  |            | zon.com/dp/B07VZJYL9S?psc=
 |        |                                  |            | 1&ref_=fsclp_qlty_title)       |
-|        | 1x Raspberry Pi 5                | $120        | [Amazon](https://www |
+|        | 1x Raspberry Pi 5                | $120        | [Amazon](https://www 
 |        |                                  |            | on.com/dp/B07WQFHMXD?psc=
 |        |                                  |            | 1&ref_=fsclp_qlty_title)       |
-|        | 1x Gigabit Ethernet Switch       | $30         | [Amazon](https://www |
+|        | 1x Gigabit Ethernet Switch       | $30         | [Amazon](https://www 
 |        |                                  |            | .com/dp/B07KTNTTTR?psc=
 |        |                                  |            | 1&ref_=fsclp_qlty_title)       |
-| Power  | 1x Power Supply - USB-C          | $20         | [Amazon](https://www |
+| Power  | 1x Power Supply - USB-C          | $20         | [Amazon](https://www 
 |        |                                  |            | .com/dp/B07WPCYMDS?psc=
 |        |                                  |            | 1&ref_=fsclp_qlty_title)       |
 |        | 4x USB-C to USB-C Cables         | $10         | [Amazon](https://www
