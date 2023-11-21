@@ -16,29 +16,17 @@ jarkc stands for (just-another-raspberry-kubernetes-cluster)
 
 ## My Hardware List
 
-| Device | Description                     | Price ($)   | Link                              |  
+| Device | Description                     | Price (CZK)   | Link                              |  
 |--------|----------------------------------|-------------|-----------------------------------| 
-| RPis   | 3x Raspberry Pi 4                | $80         | [Amazon](https://www 
-|        |                                  |            | zon.com/dp/B07VZJYL9S?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-|        | 1x Raspberry Pi 5                | $120        | [Amazon](https://www 
-|        |                                  |            | on.com/dp/B07WQFHMXD?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-|        | 1x Gigabit Ethernet Switch       | $30         | [Amazon](https://www 
-|        |                                  |            | .com/dp/B07KTNTTTR?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-| Power  | 1x Power Supply - USB-C          | $20         | [Amazon](https://www 
-|        |                                  |            | .com/dp/B07WPCYMDS?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-|        | 4x USB-C to USB-C Cables         | $10         | [Amazon](https://www
-|        |                                  |            | .com/dp/B07GLZRLLS?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-|        | 4x UTP Cables                    | $10         | [Amazon](https://www
-|        |                                  |            | .com/dp/B07FLYJ5MS?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
-| Case   | 1x Cluster Case                  | $20         | [Amazon](https://www
-|        |                                  |            | .com/dp/B07KTNTTTS?psc=
-|        |                                  |            | 1&ref_=fsclp_qlty_title)       
+| RPis   | 3x Raspberry Pi 4                | 2.199 CZK        | [RPIShop RPI 4](https://rpishop.cz/raspberry-pi-4/2611-raspberry-pi-4-model-b-8gb-ram-0765756931199.html)
+|        | 1x Raspberry Pi 5                | 2.299 CZK        | [RPIShop RPI 5](https://rpishop.cz/raspberry-pi-5/6498-raspberry-pi-5-8gb-ram-5056561803326.html)
+|        | 1x Gigabit Ethernet Switch (TP-Link TL-SG105E)     | 549 CZK         | [Alza](https://www.alza.cz/tp-link-tl-sg105e-d2916224.htm) 
+| Power  | 1x Power Supply - USB-C (UOUCOO 160 W USB C Charger Multiple)         | 1.594 CZK         | [Amazon](https://amzn.eu/d/gu0fjrM)
+|        | 4x USB-C to USB-C Cables         | 59 CZK         | [IKEA](https://www.ikea.com/cz/cs/p/sittbrunn-usb-c-na-usb-c-modra-30546650/)  
+|        | 4x UTP Cables                    | 0 CZK         | Self made   
+| Case   | 1x Cluster Case (GeeekPi 4 Layer Acrylic Case Dark Brown/Transparent Enclosure)                | 468 CZK         | [AliExpress](https://www.aliexpress.com/item/32918557708.html?spm=a2g0o.order_list.order_list_main.5.11421802lI6NqY)
+|        |                                  |            | 
+| Total Costs       |                                  |   11743 CZK         |  Approx!!!
 
 
 
