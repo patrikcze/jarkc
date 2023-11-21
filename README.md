@@ -36,10 +36,10 @@ jarkc stands for (just-another-raspberry-kubernetes-cluster)
 This guide is based on the following software:
 
 - Raspberry PI Imager v1.8.1 [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
-![RespberryPiImager](./images/rpiImager.png)
+<img src="./images/rpiImager.png" alt="RespberryPiImager" width="350"/>
 - Ubuntu Server 22.04 (64bit) [Ubuntu 22.04 for RaspberryPi Certified](https://ubuntu.com/download/raspberry-pi/thank-you?version=22.04.3&architecture=server-arm64+raspi)
 - Currently supported Ubuntu 23.10 Server (Because I've used Rpi5) [Ubuntu Server 23.10 Rpi5](https://ubuntu.com/download/raspberry-pi/thank-you?version=23.10&architecture=server-arm64+raspi)
-![Supported Devices](./images/UbuntuSupportedDevices.png)
+<img src="./images/UbuntuSupportedDevices.png" alt="Supported Devices" width="350"/>
 - Ansible 2.15.4 [How to install Ansible](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html)
 - Ubuntu MicroK8s [Link](https://microk8s.io)
 
